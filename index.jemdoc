@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Kai Yin
+
+~~~
+{}{img_left}{photo/profile.jpeg}{alt text}{184px}{327px} #{245px}{436px}
+#[https://yinkai08.github.io Kai Yin]. \n
+
+
+I received my Ph.D. in Civil Engineering with a specialization in Transportation Engineering from [http://tamu.edu Texas A&M University].
+My academic research interests lie at the intersection of autonomous vehicles/robotics, artificial intelligence, and transportation systems.
+Currently I am working as a Staff Data Scientist (Machine Learning) at [https://www.expediagroup.com/ Expedia Group].
+\n
+\[[https://scholar.google.com/citations?hl=en&user=oh9wZ9sAAAAJ&view_op=list_works&sortby=pubdate Google Scholar]\]#\[[CV.pdf Curriculem Vitae]\] \n
+~~~
+
+
+== Education
+- Ph.D. in Civil Engineering (Transportation Engineering), Texas A&M University, 2010 - 2013
+- M.S.  in Civil Engineering (Transportation Engineering), Texas A&M University, 2008 - 2010
+- M.S.  in Signal and Information Processing, Beijing Normal University, 2005 - 2008
+- B.S.  in Information and Computing Science, Beijing Jiaotong University, 2001 - 2005
+
+== Research Interests 
+- Autonomous Vehicles and Robots: motion planning and control, safety-aware learning and reasoning for vehicles/mobile robots, vehicle-to-vehicle communication and coordination
+- Transportation Systems: transportation operations, microtransit systems, mobility as a service
+
+
+== Contact Information
+- Email: kyin [at] expediagroup [dot] com \n
+#- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/profile)\n
+- Twitter: [@yinkai1000](https://twitter.com/yinkai1000) \n
+
+

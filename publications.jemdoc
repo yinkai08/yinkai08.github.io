@@ -1,0 +1,102 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications
+
+{{&nbsp;}}{{&nbsp;}}{{&nbsp;}}{{&nbsp;}}{{&nbsp;}}\[{{<span style="color:blue;">C</span>}}\]: peer-reviewed conference articles; \[{{<span style="color:blue;">J</span>}}\]: journal articles
+\n
+\n
+
+- Causal Inference for De-biasing Motion Estimation from Robotic Observational Data \n
+with Junhong Xu, Jason Gregory, and Lantao Liu.\n
+IEEE International Conference on Robotics and Automation (*ICRA*), ExCeL London, May 2023. \[{{<span style="color:blue;">C</span>}}\]
+
+- Autonomous Navigation of AGVs in Unknown Cluttered Environments: Log-MPPI Control Strategy \n
+with Ihab Mohamed and Lantao Liu. \n
+IEEE Robotics and Automation Letters (*RA-L*), 7(4), 10240-10247, 2022. \[{{<span style="color:blue;">J</span>}}\]
+
+- Decision-Making Among Bounded Rational Agents \n
+with Junhong Xu, Durgakant Pushp, and Lantao Liu. \n
+The 16th International Symposium on Distributed Autonomous Robotic Systems (*DARS*), Montbeliard, France, November 2022. \[{{<span style="color:blue;">C</span>}}\]
+
+- Value Function Approximation for Continuous-State Markov Decision Processes \n
+ with Junhong Xu and Lantao Liu. \n
+ Robotics: Science and Systems (*RSS*), Virtual Conference, July 2020. \[{{<span style="color:blue;">C</span>}}\]
+
+- State-Continuity Approximation of Markov Decision Processes via Finite Element Analysis for Autonomous System Planning \n
+ with Junhong Xu and Lantao Liu. \n
+ IEEE Robotics and Automation Letters (*RA-L*), 5(4), 5589-5596, 2020. \[{{<span style="color:blue;">J</span>}}\]
+
+- Route-Based Transit Signal Priority Using Connected Vehicle Technology to Promote Bus Schedule Adherence \n
+with Xiaosi Zeng, Yunlong Zhang, and Jian Jiao. \n
+IEEE Transactions on Intelligent Transportation Systems (*T-ITS*), 22(2), 1174-1184, 2020. \[{{<span style="color:blue;">J</span>}}\]
+
+- An Online Planning Algorithm for Uncertain and Dynamic Environment with the Presence of Other Mobile Vehicles \n
+with Junhong Xu and Lantao Liu. \n
+IEEE International Conference on Robotics and Automation (*IROS*), Virtual Conference, October 2020. \[{{<span style="color:blue;">C</span>}}\]
+
+- Reachable Space Characterization of Markov Decision Processes with Time Variability \n
+with Junhong Xu and Lantao Liu. \n
+Robotics: Science and Systems (*RSS*). Messe Freiburg, Germany, June 2019. \[{{<span style="color:blue;">C</span>}}\]
+
+- Learning Partially Structured Environmental Dynamics for Marine Robotic Navigation \n
+with Chen Huang and Lantao Liu. \n
+The OCEANS 2018 MTS/IEEE Charleston Conference, Charleston, SC, 2018. \[{{<span style="color:blue;">C</span>}}\]
+
+- Vehicle Actuated Signal Performance Under General Traffic at an Isolated Intersection \n
+with Bruce X. Wang and Henry Liu. \n
+Transportation Research Part C (*TR-C*), 95, 582-598, 2018. \[{{<span style="color:blue;">J</span>}}\]
+
+- Distribution product packaging to maximize net revenue \n
+with Bruce X. Wang, Yihua Li, and Luca Quadrifoglio. \n
+Computers \& Industrial Engineering (*CAIE*), 121, 150–160, 2018. \[{{<span style="color:blue;">J</span>}}\]
+
+- A Spatio-Temporal Representation for the Orienteering Problem with Time-Varying Profits \n
+with Zhibei Ma, Lantao Liu, and Gaurav Sukhatme. \n
+IEEE/RSJ International Conference on Intelligent Robots and Systems (*IROS*), Vancouver, Canada, September 2017. \[{{<span style="color:blue;">C</span>}}\]
+
+- Link Travel Time Inference Using Entry/Exit Information of Trips on a Network \n
+with Wen Wang, Bruce X. Wang, and Teresa Adams. \n
+Transportation Research Part B: Methodological (*TR-B*), 80, 303–321, 2015. \[{{<span style="color:blue;">J</span>}}\]
+
+- Vehicle-to-Vehicle Connectivity on Parallel Roadways with Large Road Separation. \n
+with Bruce X. Wang, and Xuedong Yan. \n
+Transportation Research Part C (*TR-C*), 52, 93–101, 2015. \[{{<span style="color:blue;">J</span>}}\]
+
+- A Real-Time Transit Signal Priority Control Model Considering Stochastic Bus Arrival Time \n
+with Xiaosi Zeng, Yunlong Zhang, and Kevin Balke. \n
+IEEE Transactions on Intelligent Transportation Systems (*T-ITS*), 15(4), 1657–1666, 2014. \[{{<span style="color:blue;">J</span>}}\]
+
+- Application of Finite Mixture of Regression Model with Varying Mixing Probabilities to Urban Arterial Travel Time Estimation \n
+with Peng Chen and Jian Sun.\n
+Transportation Research Record (*TRR*), 2442, 96–105, 2014. \[{{<span style="color:blue;">J</span>}}\]
+
+- Vehicle-to-Vehicle Connectivity on Two Parallel Roadways with a General Headway Distribution \n
+with Bruce X. Wang and Yunlong Zhang. \n
+Transportation Research Part C (*TR-C*), 29, 84–96, 2013. \[{{<span style="color:blue;">J</span>}}\]
+
+- An Exact Markov Process for Multihop Connectivity via Intervehicle Communication on Parallel Roads \n
+with Bruce X. Wang and Yunlong Zhang. \n
+IEEE Transactions on Wireless Communications (*TWC*), 11(3), 865-868, 2012. \[{{<span style="color:blue;">J</span>}}\]
+
+- Taxiway Aircraft Traffic Analysis at George Bush Intercontinental Airport \n
+with Chunyu Tian, Bruce X. Wang, and Luca Quadrifoglio. \n
+Transportation Research Record (*TRR*), 2266, 85–94, 2012. \[{{<span style="color:blue;">J</span>}}\]
+
+- Dispatch Problem of Automated Guided Vehicles for Serving Tandem Lift Quay Crane \n
+with Yao Xing, Luca Quadrifoglio, and Bruce X. Wang. \n
+Transportation Research Record (*TRR*), 2273, 79–86, 2012. \[{{<span style="color:blue;">J</span>}}\]
+
+- Modeling Delay During Heavy Traffic for Signalized Intersections with Short Left-Turn Bay \n
+with Yunlong Zhang and Bruce X. Wang. \n
+Transportation Research Record (*TRR*), 2257, 103–110, 2011. \[{{<span style="color:blue;">J</span>}}\]
+
+- An Approximate Bernoulli Process for Information Propagation along Two Parallel Roads \n
+with Bruce X. Wang, and Xiao Qin. \n
+Transportation Research Part C (*TR-C*), 19(3), 469–484, 2011. \[{{<span style="color:blue;">J</span>}}\]
+
+- Analytical Models for Protected Plus Permitted Left Turn Capacity at Signalized Intersection with Heavy Traffic \n
+with Yunlong Zhang and Bruce X. Wang. \n
+Transportation Research Record (*TRR*), 2192, 177–184, 2010. \[{{<span style="color:blue;">J</span>}}\]
+
+- Time Variant Causality Model Applied in Brain Connectivity Network Based on Event Related Potential \n
+with Xiao-Jie Zhao and Li Yao. \n
+The 13th International Conference on Neural Information Processing (*ICONIP*), Hong Kong, China, 97–104, 2006. \[{{<span style="color:blue;">C</span>}}\]
