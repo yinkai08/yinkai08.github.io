@@ -1,0 +1,6 @@
+# jemdoc: menu{MENU}{notes.html}, nofooter
+== Notes
+
+== causal_inference
+
+- Frisch-Waugh-Lovell Theorem: A Geometric Illustration \[[notes/causal_inference/FWR-thm-geometric-illustration.pdf pdf]\]
